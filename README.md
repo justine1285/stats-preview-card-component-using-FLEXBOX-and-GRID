@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/solutions/new](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/solutions/new)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
