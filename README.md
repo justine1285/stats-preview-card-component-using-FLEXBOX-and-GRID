@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/solutions/new](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/solutions/new)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [(https://justine1285.github.io/stats-preview-card-component-using-FLEXBOX-and-GRID/)](https://justine1285.github.io/stats-preview-card-component-using-FLEXBOX-and-GRID/)
 
 ## My process
 
